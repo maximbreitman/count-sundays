@@ -1,0 +1,6 @@
+# IntelliJ user-specific stuff
+.idea/
+*.iml
+
+cmake-build*
+CMakeFiles
